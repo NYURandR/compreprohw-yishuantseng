@@ -10,11 +10,12 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R for Analysis
+HERE IS some change for coding purposes
 
-</br>
-</br>
-</br>
+```{r}
+2+2
+```
+
 
 
 R is a tool for cleaning, analyzing and publishing data. 
