@@ -32,7 +32,7 @@ To add a chunk either click on the green Insert button and choose R or hit Comma
 
 2) Please describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R can be used. Write your answer below.
 
-Record all the steps used to process the data and save the raw data. Using R is a good way to record all of the steps since we can save all the scripts we used, and we will not change the raw data processing in R. This keeps raw data safe. Besides, adding a comment line at the beginning of every program makes communication between different users easier.  
+
 Record all the steps used to process the data and save the raw data. Using R is a good way to record all of the steps since we can keep all the scripts we used, and it is free so that everyone can get access to the program. Adding a comment line at the beginning of every program makes communication between different users much more manageable.  Besides, we will not change the raw data processing in R. Therefore, using R or other programming tools keeps raw data safe.
 
 
